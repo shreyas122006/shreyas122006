@@ -42,18 +42,14 @@
 
 <hr/>
 
-<h2 align="center">⚒️ Languages • Frameworks • Tools ⚒️</h2>
-
+<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
-
 <div align="center">
-
-<img src="https://skillicons.dev/icons?i=java,cpp,python,javascript,typescript,html,css,react,nodejs,express,fastapi,flask,mongodb,mysql,firebase,docker,git,github,vscode,figma" />
-
+    <img src="https://skillicons.dev/icons?i=react,bootstrap,mui,html,css,vscode,github,figma,tailwind,git,r" />
+    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,express,firebase,mongodb,c,java,nextjs,mysql,flask" /><br>
 </div>
 
 <br/>
-
 <hr/>
 
 <h2 align="center">🐍 My Contributions 🐍</h2>
