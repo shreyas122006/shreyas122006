@@ -110,10 +110,6 @@ AI-powered fitness application built using React, FastAPI, LangChain and Gemini.
 
 AI-powered financial crisis early-warning platform built using React, FastAPI, Python and Docker.
 
-### 🚗 Drowsiness Detection
-
-Real-time driver drowsiness detection using MediaPipe, OpenCV, Flask and Arduino.
-
 </div>
 
 <br/>
