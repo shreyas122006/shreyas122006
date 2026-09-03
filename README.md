@@ -90,12 +90,6 @@
 
 <br/>
 
-<img
-    width="325"
-    src="https://github-readme-stats-shreyas122006.vercel.app/api/top-langs/?username=shreyas122006&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats"
-    alt="Top languages"
-/>
-
 </div>
 
 <br/><br/>
