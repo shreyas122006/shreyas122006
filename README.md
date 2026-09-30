@@ -18,8 +18,6 @@
 
 💬 Ask me about **Java, React, Python, FastAPI, MySQL**
 
-⚡ Fun fact **I love building projects and solving DSA problems**
-
 </div>
 
 <br/>
