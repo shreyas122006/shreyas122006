@@ -141,11 +141,11 @@ AI-powered financial crisis early-warning platform built using React, FastAPI, P
 <br/> -->
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Shreyash%20Chavan&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Electronics%20%26%20Telecommunication%20Engineering%20Student%20%7C%20Software%20Developer&descAlignY=60&descSize=15" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Shreyash%20Chavan&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Electronics%20and%20Telecommunication%20Engineering%20Student%20-%20Software%20Developer&descAlignY=60&descSize=15" width="100%" />
 </div>
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=32&center=true&vCenter=true&width=700&height=70&duration=3500&pause=800&color=A855F7&lines=Hi+There!+👋;I'm+Shreyash+Chavan;Full-Stack+Developer+🚀;AI+%26+Python+Enthusiast+🤖" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=32&center=true&vCenter=true&width=700&height=70&duration=3500&pause=800&color=A855F7&lines=Hi+There!+👋;I'm+Shreyash+Chavan;Full-Stack+Developer+🚀;AI+and+Python+Enthusiast+🤖" />
 </h1>
 
 <div align="center">
