@@ -141,12 +141,16 @@ AI-powered financial crisis early-warning platform built using React, FastAPI, P
 <br/> -->
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Shreyash%20Chavan&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Electronics%20and%20Telecommunication%20Engineering%20Student%20-%20Software%20Developer&descAlignY=60&descSize=15" width="100%" />
+  <img src="./assets/header.svg" alt="Shreyash Chavan" width="100%" />
 </div>
 
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=32&center=true&vCenter=true&width=700&height=70&duration=3500&pause=800&color=A855F7&lines=Hi+There!+👋;I'm+Shreyash+Chavan;Full-Stack+Developer+🚀;AI+and+Python+Enthusiast+🤖" />
-</h1>
+<br/>
+
+<div align="center">
+  <img src="./assets/terminal.svg" alt="about me" width="720" />
+</div>
+
+<br/>
 
 <div align="center">
 
@@ -172,21 +176,25 @@ AI-powered financial crisis early-warning platform built using React, FastAPI, P
 
 <img src="https://visitor-badge.laobi.icu/badge?page_id=shreyas122006.shreyas122006" />
 
-<br/>
-
-<img src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif" width="100%" />
-
 </div>
-
-<h2 align="center">⚒️ Languages · Frameworks · Tools ⚒️</h2>
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,html,css,javascript,typescript,tailwind,bootstrap,mui,figma&perline=10" /><br/>
-  <img src="https://skillicons.dev/icons?i=python,java,c,nodejs,express,flask,mysql,mongodb,firebase,r&perline=10" /><br/>
-  <img src="https://skillicons.dev/icons?i=git,github,docker,vscode&perline=10" />
+  <img src="./assets/divider.svg" width="100%" />
+</div>
+
+<h2 align="center">⚒️ Tech Stack ⚒️</h2>
+
+<div align="center">
+  <img src="./assets/skills.svg" alt="skills" width="100%" />
+  <br/><br/>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,html,css,javascript,typescript,tailwind,python,java,c,nodejs,express,flask,mysql,mongodb,firebase,git,github,docker,figma,vscode&perline=11" />
 </div>
 
 <br/>
+
+<div align="center">
+  <img src="./assets/divider.svg" width="100%" />
+</div>
 
 <h2 align="center">🐍 My Contributions 🐍</h2>
 
@@ -205,30 +213,15 @@ AI-powered financial crisis early-warning platform built using React, FastAPI, P
 
 <br/>
 
+<div align="center">
+  <img src="./assets/divider.svg" width="100%" />
+</div>
+
 <h2 align="center">🚀 Featured Projects 🚀</h2>
 
 <div align="center">
-<table>
-  <tr>
-    <td align="center" width="50%">
-      <h3>🤖 AI-Fitness</h3>
-      <p>AI-powered fitness application</p>
-      <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
-      <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
-      <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" />
-    </td>
-    <td align="center" width="50%">
-      <h3>💰 CrisisLens</h3>
-      <p>AI-powered financial crisis early-warning platform</p>
-      <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
-      <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
-      <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
-    </td>
-  </tr>
-</table>
+  <img src="./assets/projects.svg" alt="projects" width="100%" />
 </div>
-
-<br/>
 
 <h2 align="center">📫 Connect With Me 📫</h2>
 
@@ -242,4 +235,4 @@ AI-powered financial crisis early-warning platform built using React, FastAPI, P
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%" />
+<img src="./assets/footer.svg" alt="footer" width="100%" />
