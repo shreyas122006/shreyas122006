@@ -153,86 +153,47 @@ AI-powered financial crisis early-warning platform built using React, FastAPI, P
 <br/>
 
 <div align="center">
-
-🔭 Currently working on **AI-Fitness** and **CrisisLens**
-
-🌱 Currently learning **DSA, Full-Stack Development, Docker & Cloud**
-
-💬 Ask me about **Java, React, Python, FastAPI, MySQL**
+  <img src="./assets/about.svg" alt="building, learning, skills" width="720" />
+</div>
 
 <br/>
 
-<a href="mailto:shreyas7122006@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-<a href="https://linkedin.com/in/shreyash-chavan-b54869335" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<a href="https://shreyas122006.github.io" target="_blank">
-  <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" />
-</a>
-
-<br/><br/>
-
-<img src="https://visitor-badge.laobi.icu/badge?page_id=shreyas122006.shreyas122006" />
-
-</div>
-
 <div align="center">
-  <img src="./assets/divider.svg" width="100%" />
-</div>
-
-<h2 align="center">⚒️ Tech Stack ⚒️</h2>
-
-<div align="center">
-  <img src="./assets/skills.svg" alt="skills" width="100%" />
+  <a href="mailto:shreyas7122006@gmail.com"><img src="./assets/btn-gmail.svg" alt="Gmail" width="200" /></a>
+  <a href="https://linkedin.com/in/shreyash-chavan-b54869335" target="_blank"><img src="./assets/btn-linkedin.svg" alt="LinkedIn" width="200" /></a>
+  <a href="https://shreyas122006.github.io" target="_blank"><img src="./assets/btn-portfolio.svg" alt="Portfolio" width="200" /></a>
   <br/><br/>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,html,css,javascript,typescript,tailwind,python,java,c,nodejs,express,flask,mysql,mongodb,firebase,git,github,docker,figma,vscode&perline=11" />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=shreyas122006.shreyas122006" alt="visitors" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="./assets/divider.svg" width="100%" />
+  <img src="./assets/h-stack.svg" alt="Tech Stack" width="100%" />
+  <img src="./assets/skills.svg" alt="skills" width="100%" />
 </div>
 
-<h2 align="center">🐍 My Contributions 🐍</h2>
+<br/>
 
 <div align="center">
+  <img src="./assets/h-contrib.svg" alt="Contributions" width="100%" />
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/shreyas122006/shreyas122006/output/snake-purple.svg" />
 </div>
 
 <br/>
 
-<h2 align="center">⚡ GitHub Stats ⚡</h2>
-
 <div align="center">
-  <img width="390" src="https://github-readme-streak-stats-salesp07.vercel.app/?user=shreyas122006&count_private=true&theme=react&border_radius=10" alt="GitHub streak" />
-  <img width="390" src="https://github-readme-stats-salesp07.vercel.app/api?username=shreyas122006&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="GitHub stats" />
+  <img src="./assets/h-stats.svg" alt="GitHub Stats" width="100%" />
+  <img src="./assets/stats.svg" alt="GitHub stats" width="100%" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="./assets/divider.svg" width="100%" />
-</div>
-
-<h2 align="center">🚀 Featured Projects 🚀</h2>
-
-<div align="center">
+  <img src="./assets/h-projects.svg" alt="Featured Projects" width="100%" />
   <img src="./assets/projects.svg" alt="projects" width="100%" />
 </div>
 
-<h2 align="center">📫 Connect With Me 📫</h2>
-
-<div align="center">
-
-<a href="mailto:shreyas7122006@gmail.com">📧 Email</a>
-&nbsp;&nbsp;|&nbsp;&nbsp;
-<a href="https://linkedin.com/in/shreyash-chavan-b54869335">💼 LinkedIn</a>
-&nbsp;&nbsp;|&nbsp;&nbsp;
-<a href="https://shreyas122006.github.io">🌐 Portfolio</a>
-
-</div>
+<br/>
 
 <img src="./assets/footer.svg" alt="footer" width="100%" />
